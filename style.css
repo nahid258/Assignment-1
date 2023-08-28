@@ -1,0 +1,240 @@
+.div1 img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.div1imgtext {
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div1imgtext h1 {
+    font-size: 60px;
+}
+
+.div1imgtext p {
+    font-size: 30px;
+}
+
+.donatebutton {
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(220, 81, 81);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.div2 {
+    display: flex;
+    justify-content: center;
+}
+
+.div2txt {
+    position: absolute;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-top: 70px;
+}
+
+.div2amount {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.amount {
+    background-color: rgb(238, 231, 231);
+    width: 180px;
+    margin: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#tk {
+    color: red;
+    background-color: rgb(241, 212, 212);
+    border: 5px solid red;
+}
+
+.inputamount {
+    font-size: 30px;
+    border: none;
+    border-bottom: 2px solid black;
+    padding-left: 300px;
+    padding-right: 300px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#amountdonatebutton {
+    margin-bottom: 100px;
+}
+
+.div3 {
+    margin-top: 650px;
+    display: flex;
+    justify-content: center;
+}
+
+.div3txt {
+    position: absolute;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.div3dp {
+    justify-content: center;
+    display: flex;
+    margin-top: 200px;
+}
+
+.div3dp1 {
+    width: 250px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: rgb(225, 239, 238);
+    padding: 25px 25px;
+}
+
+#divdp2 {
+    background-color: rgb(246, 218, 222);
+}
+
+#divdp3 {
+    background-color: rgb(236, 238, 200);
+}
+
+
+.div4 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.div4s1 {
+    margin-left: 300px;
+    margin-right: 100px;
+    width: 600px;
+}
+
+.div4s1 h1 {
+    font-size: 40px;
+}
+
+.div4s1 p {
+    font-size: 20px;
+}
+
+.htcb {
+    padding: 10px;
+    background-color: rgb(244, 102, 77);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.div4s2 img {
+    width: 60%;
+}
+
+
+.div5 {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.div5s1 {
+    width: 50%;
+}
+
+.div5s1 img {
+    width: 60%;
+    margin-left: 200px;
+}
+
+.div5s2 {
+    width: 600px;
+}
+
+.div5s2 h1 {
+    font-size: 40px;
+}
+
+.div5s2 p {
+    font-size: 20px;
+}
+
+
+.div6 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.div6 h1 {
+    font-size: 40px;
+}
+
+.div6 p {
+    font-size: 20px;
+}
+
+#div6ieml {
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 40px;
+    background-color: rgb(204, 198, 198);
+    border: none;
+    border-radius: 5px;
+}
+
+#div5butt {
+    padding: 10px 25px;
+    background-color: rgb(244, 102, 77);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.div6s2 {
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: antiquewhite;
+    width: 700px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+.footer h1 {
+    color: rgb(238, 68, 38);
+    font-family: 'Lobster';
+    font-size: 30px;
+}
+
+.footer p {
+    color: white;
+}
